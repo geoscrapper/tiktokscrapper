@@ -38,12 +38,18 @@ Features
 
 Installation
 
-git clone https://github.com/geoscrapper/tiktokscrapper
-pip install tiktokthon==0.1
+ git clone https://github.com/geoscrapper/tiktokscrapper
+
+ pip install tiktokthon==0.1
+
 
 USAGE
-In Terminal
 
-$ tiktok-scraper --help
-$ tiktok-scraper check --phone --username=@ahmedshah
-...phone -> 19235564445
+ In Terminal
+
+
+ $ tiktok-scraper --help
+
+ $ tiktok-scraper check --phone --username=@ahmedshah
+
+ ...phone -> 19235564445
