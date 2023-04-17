@@ -15,6 +15,13 @@ Features
     Scrape and download user, hashtag, music feeds and single videos specified in the file in batch mode
     
     
+    
+    
+    
+    
+    
+    
+    
 
 Installation
 
