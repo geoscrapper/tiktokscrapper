@@ -15,41 +15,21 @@ Features
     Scrape and download user, hashtag, music feeds and single videos specified in the file in batch mode
     
     
-#To Do
 
-    CLI: save progress to avoid downloading same videos
-    Rewrite everything in TypeScript
-    Improve proxy support
-    Add tests
-    Download video without the watermark
-    Indicate in the output file(csv/json) if the video was downloaded or not
-    Build and run from Docker
-    CLI: Scrape and download in batch
-    CLI: Load proxies from a file
-    CLI: Optional ZIP
-    Renew API
-    Set WebHook URL (CLI)
-    Add new method to collect music metadata
-    Add Manual Pagination
-    Improve documentation
-    Download audio files
-    Web interface
-
-
-#Installation
+Installation
 
  git clone https://github.com/geoscrapper/tiktokscrapper
 
  pip install tiktokthon==0.1
 
 
-#USAGE
+
+
+USAGE
+
+
 
  In Terminal
-
-
  $ tiktok-scraper --help
-
  $ tiktok-scraper check --phone --username=@ahmedshah
-
  ...phone -> 19235564445
