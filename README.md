@@ -15,7 +15,7 @@ Features
     Scrape and download user, hashtag, music feeds and single videos specified in the file in batch mode
     
     
-    To Do
+#To Do
 
     CLI: save progress to avoid downloading same videos
     Rewrite everything in TypeScript
@@ -36,14 +36,14 @@ Features
     Web interface
 
 
-Installation
+#Installation
 
  git clone https://github.com/geoscrapper/tiktokscrapper
 
  pip install tiktokthon==0.1
 
 
-USAGE
+#USAGE
 
  In Terminal
 
