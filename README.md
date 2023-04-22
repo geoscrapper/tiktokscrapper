@@ -27,7 +27,7 @@ Installation
 
  git clone https://github.com/geoscrapper/tiktokscrapper
 
- pip install tiktokthon==0.1
+ pip install parser-scrapper
 
 
 ![image](https://user-images.githubusercontent.com/91790678/232574963-ef11ab4f-d4c0-427b-9ef9-57daad81fdec.png)
@@ -35,9 +35,4 @@ Installation
 
 USAGE
 
-
-
- In Terminal
- $ tiktok-scraper --help
  $ tiktok-scraper check --phone --username=@ahmedshah
- ...phone -> 19235564445
