@@ -27,7 +27,7 @@ Installation
 
  git clone https://github.com/geoscrapper/tiktokscrapper
 
- pip install parser-scrapper
+ pip install tiktok-phone-cheker
 
 
 ![image](https://user-images.githubusercontent.com/91790678/232574963-ef11ab4f-d4c0-427b-9ef9-57daad81fdec.png)
